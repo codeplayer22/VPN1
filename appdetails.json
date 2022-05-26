@@ -4,7 +4,7 @@
     "version":"2.8.1600",
     "title":"SPARK SHIELD VPN",
     "description":"Fast, secure and easy to use.",
-    "size":"https://git.io/JeY69"   
+       
   }],
   "blocked":[
     {"id":0, "app":"com.android.game"},
